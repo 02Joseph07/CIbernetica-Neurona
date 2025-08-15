@@ -1,5 +1,5 @@
 # 🧠 Neurona de McCulloch-Pitts con Compuertas Lógicas
-
+(Descargar diagrama para verlo bien o abrirlo en una nueva ventana)
 **Integrantes del equipo:**
 - Luigi Rincon  
 - Juan Holguien  
