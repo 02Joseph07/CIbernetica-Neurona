@@ -6,7 +6,7 @@
 **Integrantes del equipo:**
 - Luigi Rincon  
 - Juan Holguien  
-- Juan Sanchez  
+- Juan Vasquez  
 - Samuel Moya  
 - Uriel Rodriguez  
 - Sara Leon  
